@@ -3,7 +3,7 @@ layout: home
 title: "Maxwell Adigwe - Data Analytics Portfolio"
 ---
 
-# 👋 Hello, I'm Maxwell Adigwe
+# Hello, I'm Maxwell Adigwe
 
 **Data Analytics & Business Intelligence Professional**
 
@@ -12,7 +12,7 @@ I transform complex data into actionable insights that drive business decisions 
 ## 🔍 What I Do
 
 - **Data Analysis & Visualization**
-- **Business Intelligence Dashboards**
+- **Business Intelligence Dashboards** 
 - **Predictive Modeling**
 - **Data Pipeline Development**
 - **Statistical Analysis**
