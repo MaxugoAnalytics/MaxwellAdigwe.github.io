@@ -8,12 +8,12 @@ permalink: /about/
 
 ## Professional Summary
 
-I am a passionate data analytics professional with expertise in transforming raw data into meaningful insights. I specialize in creating data-driven solutions that help businesses make informed decisions.
+I am a passionate data analyst with [X years] of experience in transforming complex datasets into actionable business insights. I specialize in data visualization, statistical analysis, and building interactive dashboards that drive data-informed decision making.
 
-## 🎯 Core Competencies
+## 🎯 My Expertise
 
-### Technical Expertise
-- **Data Analysis:** Python, R, SQL, Excel
+### Technical Skills
+- **Data Analysis:** Python (Pandas, NumPy), R, SQL, Excel
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Programming:** Python, SQL, JavaScript
@@ -26,14 +26,14 @@ I am a passionate data analytics professional with expertise in transforming raw
 - Data Cleaning & Preprocessing
 - Data Storytelling & Presentation
 
-## 📚 Education & Certifications
+## 🎓 Education & Certifications
 
-- **Degree/Certification** - Institution (Year)
-- **Data Analytics Certification** - Platform (Year)
-- **Relevant Coursework/Training**
+- **Bachelor of Science in [Your Field]** - [Your University], [Year]
+- **[Any Certifications]** - [Issuing Organization], [Year]
+- **Relevant Coursework:** [List relevant courses]
 
-## 🏆 Approach
+## 🏆 My Approach
 
-I believe in the power of data to tell compelling stories and drive strategic decisions. My approach combines technical expertise with business acumen to deliver actionable insights.
+I believe in the power of data to tell compelling stories and drive strategic decisions. My approach combines technical expertise with business acumen to deliver actionable insights that help organizations grow and optimize their operations.
 
 [View my technical skills](/skills) | [See my projects](/projects)
