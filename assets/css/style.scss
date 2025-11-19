@@ -1,0 +1,38 @@
+---
+---
+
+// Basic professional styling
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #34495e;
+}
+
+// Professional link styling
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1c5980;
+    text-decoration: underline;
+}
